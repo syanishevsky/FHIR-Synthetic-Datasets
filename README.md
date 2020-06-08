@@ -9,7 +9,7 @@
 - This was done with the goal of testing the functionality of our service to work with a FHIR data format, particularly, to test the ingestion algorithm. Overall, all generated datasets were successfully ingested into the metadata service.
 
 
-## Citations
+### Citations
 [1] https://synthea.mitre.org/
 
 [2] Jason Walonoski, Mark Kramer, Joseph Nichols, Andre Quina, Chris Moesel, Dylan Hall, Carlton Duffett, Kudakwashe Dube, Thomas Gallagher, Scott McLachlan, Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record, Journal of the American Medical Informatics Association, Volume 25, Issue 3, March 2018, Pages 230–238, https://doi.org/10.1093/jamia/ocx079
