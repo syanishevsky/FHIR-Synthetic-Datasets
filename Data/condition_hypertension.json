@@ -1,0 +1,897 @@
+{
+    "entry": [
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/bab430ff-5b09-4e4a-8871-6e4fcb84fa17",
+            "resource": {
+                "assertedDate": "2009-04-05T11:12:53-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/630a642d-0402-454c-9426-c399cf9b2aab"
+                },
+                "id": "bab430ff-5b09-4e4a-8871-6e4fcb84fa17",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:36.486194+00:00",
+                    "versionId": "MTU1NDgxMjczNjQ4NjE5NDAwMA"
+                },
+                "onsetDateTime": "2009-04-05T11:12:53-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/6f7acde5-db81-4361-82cf-886893a3280c"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/0e2a23c7-90ef-4e0a-b9da-c7869104f8f6",
+            "resource": {
+                "assertedDate": "1961-06-27T21:21:32-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/bdba928a-6a8a-4998-bdb9-4190029cfd56"
+                },
+                "id": "0e2a23c7-90ef-4e0a-b9da-c7869104f8f6",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:35.399801+00:00",
+                    "versionId": "MTU1NDgxMjczNTM5OTgwMTAwMA"
+                },
+                "onsetDateTime": "1961-06-27T21:21:32-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/728b270d-d7de-4143-82fe-d3ccd92cebe4"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/d20b4151-8ed4-4abd-ba78-ded90964d2d1",
+            "resource": {
+                "assertedDate": "2001-03-29T16:02:35-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/da1bb507-e9af-4b31-9ae3-ae1737fce2e0"
+                },
+                "id": "d20b4151-8ed4-4abd-ba78-ded90964d2d1",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:33.273143+00:00",
+                    "versionId": "MTU1NDgxMjczMzI3MzE0MzAwMA"
+                },
+                "onsetDateTime": "2001-03-29T16:02:35-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/5acc8bb4-2d14-4461-a560-228d96459cc3"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/84bebc26-d280-4735-97ca-2021ea45e83a",
+            "resource": {
+                "assertedDate": "2002-10-12T23:00:42-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/8462e67f-e5fd-4037-bc3d-122f1590236f"
+                },
+                "id": "84bebc26-d280-4735-97ca-2021ea45e83a",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:25.741643+00:00",
+                    "versionId": "MTU1NDgxMjcyNTc0MTY0MzAwMA"
+                },
+                "onsetDateTime": "2002-10-12T23:00:42-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/f9501d43-81e0-4c40-8306-9f9cb1769b3d"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/c5129069-74d0-40bd-8f83-6fb202eb34aa",
+            "resource": {
+                "assertedDate": "2002-03-19T19:15:30-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/14327998-6b87-4fc1-873f-532e3580728d"
+                },
+                "id": "c5129069-74d0-40bd-8f83-6fb202eb34aa",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:23.101852+00:00",
+                    "versionId": "MTU1NDgxMjcyMzEwMTg1MjAwMA"
+                },
+                "onsetDateTime": "2002-03-19T19:15:30-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/05306f3b-c7c3-4f9a-a441-87feb2ec6a66"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/dab042f6-0c8c-4c3e-b194-204bce3f1283",
+            "resource": {
+                "assertedDate": "1928-02-14T22:34:30-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/db1fdffe-366b-46bf-b2fa-aedb7206a5bb"
+                },
+                "id": "dab042f6-0c8c-4c3e-b194-204bce3f1283",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:17.219320+00:00",
+                    "versionId": "MTU1NDgxMjcxNzIxOTMyMDAwMA"
+                },
+                "onsetDateTime": "1928-02-14T22:34:30-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/615c67c5-5ac0-4538-84ae-bd8d4e19dc5d"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/3fc18fbc-fec5-4d50-b0de-049f641b528e",
+            "resource": {
+                "assertedDate": "1957-03-27T11:24:37-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/ffe946b0-1f2b-4ba7-82b2-900c2f06a506"
+                },
+                "id": "3fc18fbc-fec5-4d50-b0de-049f641b528e",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:17.192169+00:00",
+                    "versionId": "MTU1NDgxMjcxNzE5MjE2OTAwMA"
+                },
+                "onsetDateTime": "1957-03-27T11:24:37-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/81471da3-aaab-458a-bae3-c71525fe7415"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/0412a53c-e1ec-4733-b136-160c373170cc",
+            "resource": {
+                "assertedDate": "1998-04-05T11:32:19-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/9229dcfb-6af8-426a-aea9-48a250033ee3"
+                },
+                "id": "0412a53c-e1ec-4733-b136-160c373170cc",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:14.037087+00:00",
+                    "versionId": "MTU1NDgxMjcxNDAzNzA4NzAwMA"
+                },
+                "onsetDateTime": "1998-04-05T11:32:19-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/c0c6a188-d377-413e-8dc7-6ded539c96d9"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/76728773-eaf7-4eb6-a58b-0d588834afe6",
+            "resource": {
+                "assertedDate": "1949-09-12T00:18:19-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/9a850c41-0fa1-410d-a5c6-0169320dfb79"
+                },
+                "id": "76728773-eaf7-4eb6-a58b-0d588834afe6",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:12.956151+00:00",
+                    "versionId": "MTU1NDgxMjcxMjk1NjE1MTAwMA"
+                },
+                "onsetDateTime": "1949-09-12T00:18:19-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/155835fd-7f1d-414b-94d2-41d44adcf250"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/8b305045-c0c6-4f44-b520-607dc2c63ff8",
+            "resource": {
+                "assertedDate": "2009-03-09T09:31:36-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/0e530353-ee24-47e6-bb71-7cba459b2d48"
+                },
+                "id": "8b305045-c0c6-4f44-b520-607dc2c63ff8",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:07.624378+00:00",
+                    "versionId": "MTU1NDgxMjcwNzYyNDM3ODAwMA"
+                },
+                "onsetDateTime": "2009-03-09T09:31:36-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/c3e58176-8e84-4721-a6b9-0d7eea88d109"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/21c0512c-2989-4c2d-89e7-bc6ab4952375",
+            "resource": {
+                "assertedDate": "2018-12-16T12:16:24-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/ead22f55-330e-4bf7-878f-d3e5367863ab"
+                },
+                "id": "21c0512c-2989-4c2d-89e7-bc6ab4952375",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:07.606812+00:00",
+                    "versionId": "MTU1NDgxMjcwNzYwNjgxMjAwMA"
+                },
+                "onsetDateTime": "2018-12-16T12:16:24-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/03a27898-d209-48aa-a2ec-a03f6fdaf1fe"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/11af6b56-63b7-4f4a-9fd4-e03d5c403c4c",
+            "resource": {
+                "assertedDate": "1984-12-21T14:19:26-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/25e8f8d0-165d-4ff1-bf05-586468a11c0e"
+                },
+                "id": "11af6b56-63b7-4f4a-9fd4-e03d5c403c4c",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:25:02.310590+00:00",
+                    "versionId": "MTU1NDgxMjcwMjMxMDU5MDAwMA"
+                },
+                "onsetDateTime": "1984-12-21T14:19:26-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/d02546e8-aa0a-4b24-97a4-b6147a599478"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/d24b1fdc-d03b-4d45-8ba6-f19de9297036",
+            "resource": {
+                "assertedDate": "1966-09-03T01:52:23-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/6ce379fd-3a2f-4d27-a1ee-5c38a21ae5a6"
+                },
+                "id": "d24b1fdc-d03b-4d45-8ba6-f19de9297036",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:24:56.980946+00:00",
+                    "versionId": "MTU1NDgxMjY5Njk4MDk0NjAwMA"
+                },
+                "onsetDateTime": "1966-09-03T01:52:23-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/57091303-30fb-4bcc-a4e6-1f76dc7993a7"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/62fe8dc5-9d6d-4295-87be-82089d9d7045",
+            "resource": {
+                "assertedDate": "1955-11-27T22:20:33-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/ece31ec0-9e79-4aa8-9ba3-0a9290593249"
+                },
+                "id": "62fe8dc5-9d6d-4295-87be-82089d9d7045",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:24:48.438714+00:00",
+                    "versionId": "MTU1NDgxMjY4ODQzODcxNDAwMA"
+                },
+                "onsetDateTime": "1955-11-27T22:20:33-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/aaae7cd0-c632-4b28-8aa7-c5ae41e4753d"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/bff8c678-f068-4f50-8655-6bcd6487fd5f",
+            "resource": {
+                "assertedDate": "1994-05-26T14:45:12-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/342b9af0-9fa1-4b59-b7bc-60c8899a3269"
+                },
+                "id": "bff8c678-f068-4f50-8655-6bcd6487fd5f",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:24:43.067636+00:00",
+                    "versionId": "MTU1NDgxMjY4MzA2NzYzNjAwMA"
+                },
+                "onsetDateTime": "1994-05-26T14:45:12-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/41d0b3e0-264a-41d7-9370-84a1521ec505"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/d2b57f13-ef5f-43d5-8940-ef89f3002c70",
+            "resource": {
+                "assertedDate": "2007-10-28T20:25:43-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/dbe03e55-6796-45bc-a2fa-62a1381ca1f5"
+                },
+                "id": "d2b57f13-ef5f-43d5-8940-ef89f3002c70",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:24:37.748603+00:00",
+                    "versionId": "MTU1NDgxMjY3Nzc0ODYwMzAwMA"
+                },
+                "onsetDateTime": "2007-10-28T20:25:43-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/ed011cc9-cf28-4234-bc62-e96ad02d06bf"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/168b00cf-8aea-42e3-a731-e6a63cfd7202",
+            "resource": {
+                "assertedDate": "1957-01-30T18:44:02-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/1793e1ef-039b-4b2b-b1d2-528afb34a5e9"
+                },
+                "id": "168b00cf-8aea-42e3-a731-e6a63cfd7202",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:24:31.344232+00:00",
+                    "versionId": "MTU1NDgxMjY3MTM0NDIzMjAwMA"
+                },
+                "onsetDateTime": "1957-01-30T18:44:02-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/a490a01b-4d69-4498-8ef3-caa8ed5ea3ba"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/c3cc552e-13cf-48c5-9fea-02e7e0f655c1",
+            "resource": {
+                "assertedDate": "1980-12-03T17:11:13-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/f9fdefa5-2f63-4c70-ae9c-c01ca309c438"
+                },
+                "id": "c3cc552e-13cf-48c5-9fea-02e7e0f655c1",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:07:07.011434+00:00",
+                    "versionId": "MTU1NDgxMTYyNzAxMTQzNDAwMA"
+                },
+                "onsetDateTime": "1980-12-03T17:11:13-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/9bcf15aa-c5cc-4d5d-b16b-325eef407f9f"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/e3d77084-9a75-42d2-9985-ac813cfd7e44",
+            "resource": {
+                "assertedDate": "2005-11-19T02:02:03-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/6ee21db4-8823-410b-920f-62381f429226"
+                },
+                "id": "e3d77084-9a75-42d2-9985-ac813cfd7e44",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:47.346116+00:00",
+                    "versionId": "MTU1NDgxMTYwNzM0NjExNjAwMA"
+                },
+                "onsetDateTime": "2005-11-19T02:02:03-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/67fc74cc-7e9b-4eb8-9ad6-47dfe73121e1"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/074e26a7-339f-4a9b-b7a0-7cced3c7f939",
+            "resource": {
+                "assertedDate": "1994-03-09T04:42:43-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/3f9df8f6-dc58-42f6-9eea-93827f75725d"
+                },
+                "id": "074e26a7-339f-4a9b-b7a0-7cced3c7f939",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:45.177062+00:00",
+                    "versionId": "MTU1NDgxMTYwNTE3NzA2MjAwMA"
+                },
+                "onsetDateTime": "1994-03-09T04:42:43-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/dbef14f5-f48e-458e-9a2a-5479db87db38"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/1afe6bac-0147-40db-a5c0-cbf79e92e919",
+            "resource": {
+                "assertedDate": "1998-02-04T22:15:17-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/3d520827-d9f0-4260-b7ab-db4eb151fe47"
+                },
+                "id": "1afe6bac-0147-40db-a5c0-cbf79e92e919",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:45.168625+00:00",
+                    "versionId": "MTU1NDgxMTYwNTE2ODYyNTAwMA"
+                },
+                "onsetDateTime": "1998-02-04T22:15:17-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/ffdaff70-25f4-419b-a55e-f718a8c3efc3"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/7ed624a8-11ac-4491-8ea9-625519783ed9",
+            "resource": {
+                "assertedDate": "1980-11-24T16:06:56-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/b8037f8b-0f40-4a54-b05e-07a69fb6c4ae"
+                },
+                "id": "7ed624a8-11ac-4491-8ea9-625519783ed9",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:38.632333+00:00",
+                    "versionId": "MTU1NDgxMTU5ODYzMjMzMzAwMA"
+                },
+                "onsetDateTime": "1980-11-24T16:06:56-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/b6e5a598-87a8-43f7-9677-dc51ca76b72a"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/4b29f89e-6654-40ee-b3fd-22ae56a7eb73",
+            "resource": {
+                "assertedDate": "1981-08-02T15:02:03-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/609a76b2-f83c-4c9f-b0fd-dc1d6f676b72"
+                },
+                "id": "4b29f89e-6654-40ee-b3fd-22ae56a7eb73",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:38.363297+00:00",
+                    "versionId": "MTU1NDgxMTU5ODM2MzI5NzAwMA"
+                },
+                "onsetDateTime": "1981-08-02T15:02:03-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/e7190189-9c85-497d-a7b5-3972ca3c0ecb"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/45073c97-41c9-48ee-b42e-5db25abad3bf",
+            "resource": {
+                "assertedDate": "2005-09-20T04:12:35-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/fb0c4999-79ce-4df0-9a6e-cf25497eb0e9"
+                },
+                "id": "45073c97-41c9-48ee-b42e-5db25abad3bf",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:28.994236+00:00",
+                    "versionId": "MTU1NDgxMTU4ODk5NDIzNjAwMA"
+                },
+                "onsetDateTime": "2005-09-20T04:12:35-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/22b0e94a-c395-4c38-ab65-7b34084e15dc"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/e2c0287e-3e28-4c2b-b5db-627b87f8908d",
+            "resource": {
+                "assertedDate": "2001-12-14T01:13:54-05:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/d4988852-13a0-445a-9d65-d05b9e8cfa74"
+                },
+                "id": "e2c0287e-3e28-4c2b-b5db-627b87f8908d",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:25.784799+00:00",
+                    "versionId": "MTU1NDgxMTU4NTc4NDc5OTAwMA"
+                },
+                "onsetDateTime": "2001-12-14T01:13:54-05:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/ea39dc3c-1e38-484f-b6db-c03d5e96347a"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        },
+        {
+            "fullUrl": "https://syntheticmass.mitre.org/v1/fhir/Condition/dfd3b5b5-0efc-4863-b68e-ef61aebdac9e",
+            "resource": {
+                "assertedDate": "2001-10-10T03:24:11-04:00",
+                "clinicalStatus": "active",
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003",
+                            "display": "Hypertension",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "text": "Hypertension"
+                },
+                "context": {
+                    "reference": "Encounter/8d92b694-8698-4cef-9d70-78cce0d4fbad"
+                },
+                "id": "dfd3b5b5-0efc-4863-b68e-ef61aebdac9e",
+                "meta": {
+                    "lastUpdated": "2019-04-09T12:06:24.396723+00:00",
+                    "versionId": "MTU1NDgxMTU4NDM5NjcyMzAwMA"
+                },
+                "onsetDateTime": "2001-10-10T03:24:11-04:00",
+                "resourceType": "Condition",
+                "subject": {
+                    "reference": "Patient/52e68ec6-3662-4d7a-b612-dff264d7f071"
+                },
+                "verificationStatus": "confirmed"
+            },
+            "search": {
+                "mode": "match"
+            }
+        }
+    ],
+    "link": [
+        {
+            "relation": "search",
+            "url": "https://syntheticmass.mitre.org/v1/fhir/Condition/?code=http%3A%2F%2Fsnomed.info%2Fsct%7C38341003&subject%3Areference=Patient%2F6f7acde5-db81-4361-82cf-886893a3280c%2C728b270d-d7de-4143-82fe-d3ccd92cebe4%2C5acc8bb4-2d14-4461-a560-228d96459cc3%2C78b28fcd-c455-4da1-81c5-ba94c1f3f5b6%2C933c5ad6-11aa-4228-a5ae-72f075aa4681%2Cd819cfa2-c349-4920-94ab-dc244da43c50%2C0cd47600-e7d5-426a-9320-b1d817e8a73a%2C7e38c1b6-0b23-486c-b497-08902390a31d%2Cb24efd46-fae3-47e5-97a5-a1545da053fe%2Cf6d2bf6d-5c91-40b6-ba88-9bcbca6ebfbd%2Cdb252ad1-7748-4b86-bac7-61184decb0ae%2C69639ae1-8cf3-4112-9097-6ad93a5997dc%2Cf9501d43-81e0-4c40-8306-9f9cb1769b3d%2C570cbad5-a727-4720-9a97-b46088196cd7%2C580625f2-cb5f-4d81-87d2-0f1e66862969%2C167d8dd6-7ecd-4ad5-8e7a-63a6d6f077da%2Cb83daa26-3eea-41a0-be57-74beb42f6504%2C05306f3b-c7c3-4f9a-a441-87feb2ec6a66%2C871c83f5-5674-450b-a3b6-be3bbcf8a095%2C995a1c0f-b6bc-4d16-b6b0-b8a6597c6e1d%2Cb6ab974a-0cd3-4a45-9c8f-0543b79a007d%2Cb2360a02-ec1b-4463-b5e8-0996f7b6a4ac%2C615c67c5-5ac0-4538-84ae-bd8d4e19dc5d%2C81471da3-aaab-458a-bae3-c71525fe7415%2C6c1c89d0-27fc-4289-ba21-ed79a200ebe6%2C789fce0b-d5a5-4d8b-9fa9-070ccfb7d474%2C326299d1-23d8-46bf-8266-e58efe60c0ea%2Cc0c6a188-d377-413e-8dc7-6ded539c96d9%2C155835fd-7f1d-414b-94d2-41d44adcf250%2Cef25ddf1-615e-43d5-b539-6af200ae7da4%2Cfde02360-8b61-40c1-b5c9-e686627d8207%2Cd41ef714-15e0-44d3-afe3-3be47689f873%2C89645076-a956-485d-9de0-bef62b10daa6%2C0d28e708-12c0-4282-ab1f-831599e61792%2Cc3e58176-8e84-4721-a6b9-0d7eea88d109%2C03a27898-d209-48aa-a2ec-a03f6fdaf1fe%2C47fc4fcb-2862-406c-9931-929fc1892ca2%2Cd02546e8-aa0a-4b24-97a4-b6147a599478%2Cfd71330e-ebd7-4e86-a43c-39ea210caf5c%2Cc784b280-c6e9-4205-975e-b89057e23a2e%2C326c4936-086b-4967-9970-4db1d7a169c9%2C57091303-30fb-4bcc-a4e6-1f76dc7993a7%2C245c115e-eeba-4d79-88fb-9ff7029cc662%2C2cd701bf-b781-493c-ab3c-30a8603015df%2Ca29211ce-0014-43f5-a103-6368fa664749%2Ca28cfad3-f1da-421e-91e2-0f16f1d7253d%2C5294faca-cba1-4606-a079-23539a3e26e2%2C78226741-3095-42a9-87e2-9a18604edb7d%2Cbbb2ec77-c5cf-408f-aab8-3f1496334617%2C770a1931-b6d8-485e-8da8-9256f3208c27%2Caaae7cd0-c632-4b28-8aa7-c5ae41e4753d%2Cfe8a77cd-facf-471d-97ad-6a7a7cf6561d%2C4fdb156f-e87a-4f69-bca2-d8d61e595ce9%2Cef59d34d-e132-4bca-9246-d2efc1df73da%2Cdcf240d2-ad7d-4bd2-8952-cebd9ebc6003%2C41d0b3e0-264a-41d7-9370-84a1521ec505%2C81fdf5bf-e03f-4662-a727-6804a7870021%2C9b84f3aa-1ac8-4a74-b07b-f5853a365494%2Ced011cc9-cf28-4234-bc62-e96ad02d06bf%2Cfc0b3924-0ca8-424f-81b0-08f7f37b6e9b%2C4dafccb6-7548-43f4-b394-39170367f1ef%2C772fe3d7-c13c-4f24-bf0f-fc714cbf98b1%2C9958eb49-ff3b-4797-b720-52a32d0fc7d0%2C9e87ed0a-d759-4407-a0dc-c629fc102c89%2Ca490a01b-4d69-4498-8ef3-caa8ed5ea3ba%2C3ee3e7f0-bfeb-476b-abc2-eb6517d2d0b2%2C9bcf15aa-c5cc-4d5d-b16b-325eef407f9f%2Cd82dd97f-b76e-4d49-bae7-38f3d3bef190%2C46b6a07a-2e13-4460-85a5-cc9c63747c73%2C8e43e552-17d9-406d-9a5b-250c3c33ce83%2C818cf547-5821-46eb-b2f2-14e2a46fccbb%2C67cf4015-f9fc-4e22-bc90-b40e17442039%2C9ee5abef-b073-4926-8cf1-6b0c7caf31ac%2C67fc74cc-7e9b-4eb8-9ad6-47dfe73121e1%2Cdbef14f5-f48e-458e-9a2a-5479db87db38%2Cffdaff70-25f4-419b-a55e-f718a8c3efc3%2Cb93f0e35-b955-49f2-807d-187788137edf%2C142149fa-b73b-4466-9eb8-d88af9eb5448%2C80c54830-4add-48fd-b9f6-a76020b0570a%2C474a5860-bbac-4101-8890-10ad29351845%2C07605caa-9b62-4c90-a939-5fb630cab028%2Cb6e5a598-87a8-43f7-9677-dc51ca76b72a%2Ce7190189-9c85-497d-a7b5-3972ca3c0ecb%2Ca91c0655-0f40-4253-864e-2f9a77d37667%2C673c9383-9b88-4a28-a4d0-4c6df1190690%2C4323f5df-289a-4aa5-8795-b048f8c8fdf8%2C46f99b9f-ab88-40d6-a3a2-24adec933bb3%2C6064dd35-f93a-4fba-902b-2f92191554c3%2C7e866b75-a36d-4531-b1e3-57aae634ae04%2C6a49d9e8-6c8b-4326-80dc-bb54856b07f2%2C6f526a1e-eae2-4583-bb15-856d7b2d9289%2Cf7b6050c-2986-4175-8026-688ca4062543%2C088828a0-7ef6-43a5-aa4e-0c6292e59389%2C7da4a2c2-144f-46a6-bba0-78c384efae03%2Cfda8df83-a8d9-4c5c-bc5b-e7b294889414%2C22b0e94a-c395-4c38-ab65-7b34084e15dc%2Cd59c197a-0115-47c0-ad90-01799d32e01e%2Cea39dc3c-1e38-484f-b6db-c03d5e96347a%2C0e0d36f4-6653-4ae0-b83d-2530f90deff5%2C52e68ec6-3662-4d7a-b612-dff264d7f071"
+        }
+    ],
+    "resourceType": "Bundle",
+    "total": 26,
+    "type": "searchset"
+}
